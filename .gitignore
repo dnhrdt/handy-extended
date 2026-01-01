@@ -1,0 +1,35 @@
+# DSGVO: Internal documentation (may contain customer data)
+memory-bank/
+
+# Environment & Secrets
+.env
+.env.*
+.env.local
+credentials.json
+secrets.yml
+
+# Node.js
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# Temporary
+*.tmp
+*.temp

@@ -1,0 +1,13 @@
+{
+  "targetVault": "C:/Eigene Dateien/Obsidian Vault",
+  "mappings": [
+    {
+      "source": "memory-bank/",
+      "target": "Projects/PROJEKTNAME/memory-bank/"
+    }
+  ],
+  "options": {
+    "addMetadata": false,
+    "transformations": { "enabled": false }
+  }
+}
